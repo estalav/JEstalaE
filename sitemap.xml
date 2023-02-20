@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jaime.estala.org/logros/</loc>
+         <lastmod>2023-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jaime.estala.org/octobus/</loc>
          <lastmod>2023-02-20</lastmod>
          <changefreq>daily</changefreq>
@@ -67,6 +72,11 @@
     </url>
     <url>
          <loc>https://jaime.estala.org/pricing/</loc>
+         <lastmod>2023-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaime.estala.org/projectos/</loc>
          <lastmod>2023-02-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
